@@ -54,3 +54,16 @@ A link to download the RoCoG-v2 dataset will be available here soon.
 | Synthetic | Air   | 53,558|   -  | 53,558 |
 | Real      | Ground| 204   |  100 | 304  |
 | Real      | Air   | 87    |   91 | 178  |
+
+# Citation
+
+```
+@inproceedings{2023rocogv2,
+  title={Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances},
+  author={Reddy, Arun V and Shah, Ketul and Paul, William and Mocharla, Rohita and Hoffman, Judy and Katyal, Kapil D and Manocha, Dinesh and de Melo, Celso M and Chellappa, Rama},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={},
+  year={2023},
+  organization={IEEE}
+}
+```
