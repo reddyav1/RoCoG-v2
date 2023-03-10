@@ -4,9 +4,13 @@ This repository provides access to the RoCoG-v2 gesture recognition dataset intr
 
 RoCoG-v2 (Robot Control Gestures) is a dataset intended to support the study of synthetic-to-real and ground-to-air video domain adaptation. It contains over 100K synthetically-generated videos of human avatars performing gestures from seven (7) classes. It also provides videos of real humans performing the same gestures from both ground and air perspectives.
 
-<img src="https://user-images.githubusercontent.com/72093042/194117338-880d9ff2-4c5a-4731-9742-9cb32744f841.gif" width="500" />
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72093042/194117338-880d9ff2-4c5a-4731-9742-9cb32744f841.gif" width="500" align="center"/>
+</p>
 
-<img alt="rocog_gestures" src="https://user-images.githubusercontent.com/72093042/224433804-bc7e1561-9433-47da-936f-eb67198458b3.png" width="800">
+<p align="center">
+<img alt="rocog_gestures" src="https://user-images.githubusercontent.com/72093042/224433804-bc7e1561-9433-47da-936f-eb67198458b3.png" width="850">
+</p>
 
 ## Downloading the Dataset
 
