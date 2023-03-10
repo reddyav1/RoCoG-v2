@@ -109,5 +109,5 @@ Reddy, A. V., Shah, K., Paul, W., Mocharla, R., Hoffman, J., Katyal, K. D., Mano
 ```
 IEEE
 ```
-[1] A. V. Reddy et al., “Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances,” in IEEE International Conference on Robotics and Automation (ICRA), 2023.
+A. V. Reddy et al., “Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances,” in IEEE International Conference on Robotics and Automation (ICRA), 2023.
 ```
