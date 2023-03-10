@@ -14,7 +14,7 @@ RoCoG-v2 (Robot Control Gestures) is a dataset intended to support the study of 
 
 ## Downloading the Dataset
 
-All of the data for RoCoG-v2 can be found [here](https://www.cis.jhu.edu/~rocog/data/). Each data type is provided in a separate zip file.
+All of the data for RoCoG-v2 can be found [here](https://www.cis.jhu.edu/~rocog/data/). Each type of data is provided in a separate zip file.
 
 You may download the data through the browser or using the following command:
 
