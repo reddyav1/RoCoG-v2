@@ -6,6 +6,8 @@ RoCoG-v2 (Robot Control Gestures) is a dataset intended to support the study of 
 
 <img src="https://user-images.githubusercontent.com/72093042/194117338-880d9ff2-4c5a-4731-9742-9cb32744f841.gif" width="500" />
 
+<img alt="rocog_gestures" src="https://user-images.githubusercontent.com/72093042/224433804-bc7e1561-9433-47da-936f-eb67198458b3.png" width="800">
+
 ## Downloading the Dataset
 
 All of the data for RoCoG-v2 can be found [here](https://www.cis.jhu.edu/~rocog/data/). Each data type is provided in a separate zip file.
@@ -32,6 +34,7 @@ Replace \<FILENAME\> in the above command with a filename from the table below c
 ## Dataset Details
 
 ### Number of Videos across Splits
+
 
 | Data Type | View  | Train | Test | Total  |
 | :--------:| :---: | :--:  | :---:| :----: |
