@@ -1,6 +1,6 @@
 # Robot Control Gestures (RoCoG-v2)
 
-This repository provides access to the RoCoG-v2 gesture recognition dataset introduced in the ICRA 2023 paper "*Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances*." 
+This repository provides access to the RoCoG-v2 gesture recognition dataset introduced in the [ICRA 2023 paper](https://arxiv.org/abs/2303.10280) "*Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances*." 
 
 RoCoG-v2 (Robot Control Gestures) is a dataset intended to support the study of synthetic-to-real and ground-to-air video domain adaptation. It contains over 100K synthetically-generated videos of human avatars performing gestures from seven (7) classes. It also provides videos of real humans performing the same gestures from both ground and air perspectives.
 
