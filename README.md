@@ -111,3 +111,9 @@ IEEE
 ```
 A. V. Reddy et al., “Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances,” in IEEE International Conference on Robotics and Automation (ICRA), 2023.
 ```
+
+# License
+
+Code in this repository is licensed under the [MIT License](LICENSE). The
+RoCoG-v2 dataset itself is licensed under CC BY 4.0, with additional terms of
+use; see [DATA_LICENSE.md](DATA_LICENSE.md) for details.
